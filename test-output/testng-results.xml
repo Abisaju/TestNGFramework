@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T03:09:58Z" name="Suite" finished-at="2024-12-15T03:10:26Z" duration-ms="27965">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T03:09:58Z" name="Test" finished-at="2024-12-15T03:10:26Z" duration-ms="27965">
+      <class name="com.testng.test.LoginTest">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:09:58Z" name="beforemethod" finished-at="2024-12-14T19:10:04Z" duration-ms="5791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="loginwithinvalidpassword()[pri:1, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:04Z" name="loginwithinvalidpassword" finished-at="2024-12-14T19:10:06Z" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidpassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:06Z" name="close" finished-at="2024-12-14T19:10:06Z" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:06Z" name="beforemethod" finished-at="2024-12-14T19:10:09Z" duration-ms="2283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="validlogin()[pri:2, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:09Z" name="validlogin" finished-at="2024-12-14T19:10:12Z" duration-ms="3464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validlogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:12Z" name="close" finished-at="2024-12-14T19:10:12Z" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:12Z" name="beforemethod" finished-at="2024-12-14T19:10:14Z" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="RememberUsernameCheck()[pri:3, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:14Z" name="RememberUsernameCheck" finished-at="2024-12-14T19:10:20Z" duration-ms="5377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RememberUsernameCheck -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:20Z" name="close" finished-at="2024-12-14T19:10:20Z" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:20Z" name="beforemethod" finished-at="2024-12-14T19:10:22Z" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="forgotpassword()[pri:4, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:22Z" name="forgotpassword" finished-at="2024-12-14T19:10:23Z" duration-ms="1236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:23Z" name="close" finished-at="2024-12-14T19:10:23Z" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:23Z" name="beforemethod" finished-at="2024-12-14T19:10:25Z" duration-ms="1964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="passworderrormessage()[pri:5, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:25Z" name="passworderrormessage" finished-at="2024-12-14T19:10:26Z" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passworderrormessage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.testng.test.LoginTest@50de186c]" started-at="2024-12-14T19:10:26Z" name="close" finished-at="2024-12-14T19:10:26Z" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testng.test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
